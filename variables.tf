@@ -1,6 +1,6 @@
 variable "namespace" {
   default     = "global"
-  description = "Namespace, which could be your organization name, e.g. 'cp' or 'cloudposse'"
+  description = "Namespace, which could be your organization name, e.g. 'cp' or 'cloudposse"
 }
 
 variable "stage" {
